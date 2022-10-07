@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **thaaraboshah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GJlr0nHV4WAsoEo9j6fRTrwTqrs62w2M/view?usp=sharing)
+- 📄 Know about my experiences :  <a href="https://drive.google.com/file/d/1GJlr0nHV4WAsoEo9j6fRTrwTqrs62w2M/view?usp=sharing" style="font-weight: bold;"> My CV </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
