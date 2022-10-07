@@ -1,3 +1,4 @@
+<img align="center" alt="coding" width="100%" src="https://github.com/Thaar-Abo-shah/Thaar-Abo-shah/blob/main/1662762341485.jpeg" >
 <h1 align="center">Hi 👋, I'm Thaar Abo Shah</h1>
 <h3 align="center">A passionate Software developer and Artificial Intelligence Engineer</h3>
 
